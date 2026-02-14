@@ -13,7 +13,7 @@
 -->
 <br /><br />
 
-I am a **DevOps Engineer** with experience in **CI/CD pipelines, container orchestration, cloud infrastructure (AWS & Azure), automation, and monitoring solutions**. I specialize in designing and managing scalable, secure, and highly available systems.  
+I am a **DevOps Engineer** with experience in **CI/CD pipelines, container orchestration, cloud infrastructure, automation, and monitoring solutions**. I specialize in designing and managing scalable, secure, and highly available systems.  
 
 I love building **automation workflows**, optimizing deployment pipelines, and sharing knowledge with the tech community.  
 
